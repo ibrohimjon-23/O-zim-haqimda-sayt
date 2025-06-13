@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ibrohimjon-23.github.io/O-zim-haqimda-sayt/sitemap.xml
